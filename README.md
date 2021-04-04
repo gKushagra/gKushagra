@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gKushagra
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on JS Libraries
+- 👀 I’m interested in Software Development and my stack includes Angular, Node.js, MongoDB, PostgreSQL, Linux 
+- 🌱 I’m currently building a useful UI component library for vanilla JS
+- 💞️ I’m looking to collaborate on useful JS libraries
 - 📫 Reach out by following my github!
 
 <!---
