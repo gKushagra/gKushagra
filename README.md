@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gKushagra
-- 👀 I’m interested in Software Development and my stack includes Angular, Node.js, MongoDB, PostgreSQL, Linux 
-- 🌱 I’m currently building a useful UI component library for vanilla JS
-- 💞️ I’m looking to collaborate on useful JS libraries
-- 📫 Reach out by following my github!
+- Hi, I’m @gKushagra.
+- I use Java, Angular, Node.js, Express.js, PostgreSQL, MongoDB, and MySQL in my projects.
+- I also like to work on servers running Apache on Ubuntu and handle code integration and deployment.
+- I would be glad to collaborate on Open Source projects!
 
 <!---
 gKushagra/gKushagra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
